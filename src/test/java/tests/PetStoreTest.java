@@ -28,9 +28,6 @@ public class PetStoreTest {
         petStore.init();
     }
 
-    // ======================================================
-    // ORIGINAL TESTS (UNCHANGED)
-    // ======================================================
 
     @Test
     @DisplayName("Inventory Count Test")
